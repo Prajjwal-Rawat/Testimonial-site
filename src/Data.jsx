@@ -1,0 +1,58 @@
+export const Reviews = [
+    {
+        id: 1,
+        name: "David Putra",
+        job: "Photographer",
+        image: "https://images.pexels.com/photos/2887774/pexels-photo-2887774.jpeg?auto=compress&cs=tinysrgb&w=400",
+        text: "I cannot express how thrilled I am with the photos from my recent session! David has an incredible eye for detail and truly captured the essence of our family. From the moment we arrived, they made us feel comfortable and at ease, which really showed in the final images.",
+    },
+    {
+        id: 2,
+        name: "Angela Roma",
+        job: "Fitness Influencer",
+        image: "https://images.pexels.com/photos/7480310/pexels-photo-7480310.jpeg?auto=compress&cs=tinysrgb&w=400",
+        text: "I can't thank Angela enough for the incredible impact they've had on my fitness journey! Their workouts are not only challenging but also fun and engaging. I love how they provide modifications for all fitness levels, making it accessible for everyone. ",
+    },
+    {
+        id: 3,
+        name: "Andrea Piac",
+        job: "Software Developer",
+        image: "https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=400",
+        text: "Working with Andrea Piac has been an outstanding experience! Their technical skills and problem-solving abilities are truly impressive. They took the time to understand our project requirements and delivered a robust software solution that exceeded our expectations. Andrea Piac is not only proficient in coding but also excels in communication, making it easy for our team to collaborate effectively",
+    },
+    {
+        id: 4,
+        name: "Sofia Douglas",
+        job: "Marketing Manager",
+        image: "https://images.pexels.com/photos/6567336/pexels-photo-6567336.jpeg?auto=compress&cs=tinysrgb&w=400",
+        text: "Working with Sofia has been a game-changer for our marketing strategy! Their expertise in digital marketing and innovative approach helped us reach our target audience more effectively than ever before. Sofia took the time to understand our brand and goals, and their insights led to a significant increase in our engagement and conversion rates",
+    },
+    {
+        id: 5,
+        name: "Amina Flikins",
+        job: "Data Analyst",
+        image: "https://images.pexels.com/photos/7242901/pexels-photo-7242901.jpeg?auto=compress&cs=tinysrgb&w=400",
+        text: "Working with Amina Flikins has been a transformative experience for our organization! Their ability to analyze complex data sets and extract actionable insights has significantly improved our decision-making process. Amina Flikins not only possesses exceptional technical skills but also has a knack for presenting data in a clear and compelling way, making it easy for our team to understand and act upon",
+    },
+    {
+        id: 6,
+        name: "Keira Burton",
+        job: "Content Strategist",
+        image: "https://images.pexels.com/photos/6084178/pexels-photo-6084178.jpeg?auto=compress&cs=tinysrgb&w=400",
+        text: "Collaborating with Keira Burton has been a pivotal moment for our content marketing efforts! Their deep understanding of audience engagement and brand storytelling has transformed the way we approach our content strategy. Keira Burton conducted thorough research and provided valuable insights that helped us create targeted content that resonates with our audience",
+    },
+    {
+        id: 7,
+        name: "Suhan Tuan",
+        job: "Doctor",
+        image: "https://images.pexels.com/photos/14438790/pexels-photo-14438790.jpeg?auto=compress&cs=tinysrgb&w=400",
+        text: "I am incredibly grateful to have had Suhan Tuan as my physician. From my very first appointment, they took the time to listen to my concerns and thoroughly explain my treatment options. Suhan Tuan is not only highly knowledgeable and skilled but also compassionate and attentive, making me feel comfortable and cared for throughout my entire experience.",
+    },
+    {
+        id: 8,
+        name: "Antonius Ferret",
+        job: "Hotel Management",
+        image: "https://images.pexels.com/photos/6223007/pexels-photo-6223007.jpeg?auto=compress&cs=tinysrgb&w=400",
+        text: "My stay at Taj Hotel was absolutely fantastic, thanks to the exceptional management led by Antonius Ferret. From the moment I arrived, the staff was welcoming and attentive, ensuring that every detail of my stay was perfect. Antonius Ferret went above and beyond to accommodate my needs and made me feel valued as a guest.",
+    },
+]
